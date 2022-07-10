@@ -8,8 +8,6 @@ on:
   schedule:
       # every hour
     - cron: "0 * * * *"
-  push:
-    branches: [main]
 
 # The sequence of runs in this workflow:
 jobs:
