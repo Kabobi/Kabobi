@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 <!--SNAKE-->
 <!--
+
 ![snake](https://github.com/Kabobi/Kabobi/blob/output/github-contribution-grid-snake.svg)
 
 -->
