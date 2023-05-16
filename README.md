@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Kabob，Front-end developer.
-
+I'm Kabob, a lover of technology, software and tools.
 
 <!--
 **Kabobi/Kabobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
